@@ -1,6 +1,5 @@
 # Statitics-learning
- This repository contains code examples and resources for learning statistics. It is designed to help beginners understand key statistical concepts and apply them in various contexts.
- Contents:
+Contents:
  
  Descriptive Statistics
   1. Measures of Central Tendency: Mean, Median, Mode
